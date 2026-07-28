@@ -1,8 +1,0 @@
-## Interface: 20506
-## Title: VendorStack
-## Author: Alataria
-## Version: 1.0.0
-## Notes: Adds a 'buy stack' button to vendor stack popups.
-## IconTexture: Interface\Icons\INV_Misc_Coin_01
-
-VendorStack.lua
